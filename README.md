@@ -1,2 +1,2 @@
 # appliedurethane
-Website for Applied Urethane at zachdyerdesign.github.io/appliedurethane.
+Website for Applied Urethane at https://zachdyerdesign.github.io/appliedurethane.
