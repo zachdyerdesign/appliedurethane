@@ -4,9 +4,9 @@ layout: page
 permalink: /urethane-gears
 ---
 
-![Urethane Gear](/img/GEAR3.jpg)
+![Urethane Gear](img/GEAR3.jpg)
 
-Please click [HERE](/img/GEAR6.jpg) for a Larger View.
+Please click [HERE](img/GEAR6.jpg) for a Larger View.
 
 AUTI will custom mold your gears to help you to meet your exact needs. In many cases, we can mold off of an existing gear. This allows AUTI to make a prototype polyurethane gear for you both fast, and economically.
 
@@ -14,9 +14,9 @@ AUTI will custom mold your gears to help you to meet your exact needs. In many c
 
 In one instance, AUTI replaced steel gears in an irrigation spray head with our urethane gears. The customer wanted a material that could withstand dirt, sand, and wide temperature ranges. The customer also wanted a material that could be maintenance free for years. Our engineers came up with a urethane elastomer that was able to run dry. This enabled the customer to assemble the head without using grease, which attracts sand and grit. The sand, and grit was the main culprit that was destroying the steel gears. With our product their spray heads required no maintenance for several years, as opposed to a couple rebuilds per year with the original steel gears.
 
-![Various Polyurethane Machine Gears](/img/SeGEARS.jpg)
+![Various Polyurethane Machine Gears](img/SeGEARS.jpg)
 
-Please click [HERE](/img/eGEARS.jpg) for a Larger View.
+Please click [HERE](img/eGEARS.jpg) for a Larger View.
 
 #### Our Urethane can Help to Protect your Machinery:
 
@@ -29,29 +29,16 @@ If you have several gears in a row, replace every other gear with an AUTI polyur
 Gears that use Polyurethane have the following characteristics:
 
 - High Noise Abatement
-
 - Functions well in Severe Environments
-
 - Self Lubricating
-
 - Pre-Loaded
-
 - Smooth Running
-
 - High Quality
-
 - Durable
-
 - Resilient
-
 - Excellent Shock Absorption
-
 - High Rebound
-
 - Dimensional Stability
-
 - Abrasion Resistant
-
 - Reduced Down Time
-
 - Reduced Maintenance Costs

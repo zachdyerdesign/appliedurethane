@@ -6,8 +6,8 @@ hide-sidebar: true
 ---
 
 To view our products: 
-please [click here](/products-and-services)	 
-![Urethane Product](/img/CleatedBelts.jpg)
+please [click here](products-and-services)	 
+![Urethane Product](img/CleatedBelts.jpg)
 
 - **ADDITIVES** – Materials combined with VIBRATHANE, and curative to modify the properties of the roll, such plasticizers, fillers, and stabilizers.
 
@@ -45,9 +45,9 @@ please [click here](/products-and-services)
 
 *Source: Uniroyal Chemical ®*
 
-![Click here to go to our Products & Services page](/img/IconGEAR.jpg) 
-For Product Details of our high quality Urethane Products, please [Click Here](/products-and-services). ![Urethane Gear](/img/bearing cover.jpg)
+![Click here to go to our Products & Services page](img/IconGEAR.jpg) 
+For Product Details of our high quality Urethane Products, please [Click Here](products-and-services). ![Urethane Gear](img/bearing cover.jpg)
 
-[Go back to Engineering Assistance](/engineering-assistance)
+[Go back to Engineering Assistance](engineering-assistance)
 
-[Go back to Why Urethane?](/why-urethane)
+[Go back to Why Urethane?](why-urethane)

@@ -18,4 +18,4 @@ Please click HERE for a Larger View.
 
 AUTI manufactures non reinforced flat drive belts including Document Pick Off Belts. AUTI we will analyze your Polyurethane Flat Belt needs for such factors as the machine design, materials, and operating conditions.
 
-Back To Urethane Services Applications Page
+[Back To Urethane Services Applications Page](urethane-in-applications)

@@ -38,4 +38,4 @@ What makes AUTI better than the rest?
 - In-house mold making to reduce lead time
 - All of our urethane parts are Made in the USA.
 
-Click here for more information about how AUTI can help you
+[Click here for more information about how AUTI can help you](products-and-services)

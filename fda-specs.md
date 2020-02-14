@@ -49,12 +49,14 @@ Durathane SMS-F60 and SMS-F95 prepolymers, when cured with Vesalink 1,4 BDO cura
 *Source: Air Products ®*
 
 ### AUTI manufactures FDA Approved 
-![AUTI manufactures FDA Approved Polyurethane Seals](/img/SEALS6.jpg)
+
+![AUTI manufactures FDA Approved Polyurethane Seals](img/SEALS6.jpg)
 
 #### Polyurethane Seals & Components
+
 We manufacture high quality urethane seals, beaters, clamps, belts, and other urethane Food Processing parts and components for the Food Processing Industry. We meet Wet and Dry FDA Regulations for Direct Food Contact. We manufacture urethane parts for Food Processing Equipment that meet FDA Regulations, also.
 
-For Product Details of our high quality Urethane Products, please [Click Here](/products-and-services).  
+For Product Details of our high quality Urethane Products, please [Click Here](products-and-services).  
 
-[Go back to Engineering Assistance](/engeneering-assistance)
+[Go back to Engineering Assistance](engeneering-assistance)
 

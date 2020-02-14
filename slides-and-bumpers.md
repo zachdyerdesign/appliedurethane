@@ -4,9 +4,9 @@ layout: page
 permalink: /slides-and-bumpers
 ---
 
-![Urethane Bumpers and Slides](/img/slides3.jpg)
+![Urethane Bumpers and Slides](img/slides3.jpg)
 
-Please click [HERE](/img/slides6.jpg) for a Larger View.
+Please click [HERE](img/slides6.jpg) for a Larger View.
 
 #### Polyurethane Bumpers that Work:
 
@@ -22,13 +22,13 @@ If you need high-rebound, your movement will bounce off our urethane bumper ther
 
 AUTI produces polyurethane slides to help you meet your automation needs. Please contact us with your specifications, and we will engineer your urethane slides. We also manufacture cutting sticks or web sticks, and cutter sticks of different lengths.
 
-![Various Urethane Cutting Sticks and Slides](/img/STIX3.jpg)
+![Various Urethane Cutting Sticks and Slides](img/STIX3.jpg)
 
-Please click [HERE](/img/STIX6.jpg) for a Larger View.
+Please click [HERE](img/STIX6.jpg) for a Larger View.
  
-![Various Urethane Clamps, and Slides](/img/CLAMP3.jpg)
+![Various Urethane Clamps, and Slides](img/CLAMP3.jpg)
 
-Please click [HERE](/img/CLAMP6.jpg) for a Larger View.
+Please click [HERE](img/CLAMP6.jpg) for a Larger View.
 
 #### Bumpers and Slides that use Polyurethane have the following characteristics:
 

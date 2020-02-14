@@ -4,13 +4,13 @@ layout: page
 permalink: /banking-machines
 ---
 
-![ATM Machine Rollers](/img/SeBanking.jpg)
+![ATM Machine Rollers](img/SeBanking.jpg)
 
-Please click [HERE](/img/eBanking_6.jpg) for a Larger View.
+Please click [HERE](img/eBanking_6.jpg) for a Larger View.
 
-![Drive Rollers for the Document Transferring Industry](/img/Rollers216x144.jpg)
+![Drive Rollers for the Document Transferring Industry](img/Rollers216x144.jpg)
 
-Please click [HERE](/img/Rollers432x288.jpg) for a Larger View.
+Please click [HERE](img/Rollers432x288.jpg) for a Larger View.
 
 Here at AUTI we specialize in the engineering, and manufacturing of various polyurethane ATM, and Banking Machine Parts. Listed below are some of the various Banking Machines that we create parts for:
 

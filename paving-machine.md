@@ -4,13 +4,13 @@ layout: page
 permalink: /paving-machine
 ---
 
-![Polyurethane Paving Machine Replacement Rollers](/img/paving-machine-replacement-rollers-group.jpg)
+![Polyurethane Paving Machine Replacement Rollers](img/paving-machine-replacement-rollers-group.jpg)
 
 Here at AUTI we specialize in the engineering, and manufacturing of various polyurethane parts for Paving Machines:
 
 
 
-![Polyurethane Paving Machine Replacement Rollers](/img/paving-machine-replacement-rollers-large-323-242.jpg)
+![Polyurethane Paving Machine Replacement Rollers](img/paving-machine-replacement-rollers-large-323-242.jpg)
 
 ##### Secmair # S5019.04AU Dual Hardness 81 mm OD X 30 mm Wide X 20 mm Bore
 
@@ -55,7 +55,7 @@ Here at AUTI we specialize in the engineering, and manufacturing of various poly
 
 
 
-![Polyurethane Paving Machine Replacement Rollers](/img/paving-machine-replacement-rollers-small-320-240.jpg)
+![Polyurethane Paving Machine Replacement Rollers](img/paving-machine-replacement-rollers-small-320-240.jpg)
 
 ##### Smaller Roller 30.2 mm OD X 20 mm Wide X 12.1 mm Bore
 

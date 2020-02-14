@@ -5,7 +5,7 @@ permalink: /packaging
 ---
 
 
-![Various Slides](/img/STIX3.jpg) ![Bumpers Conveyor Holding Fixtures](/img/conveyerholdingfixtures3.1.jpg)
+![Various Slides](img/STIX3.jpg) ![Bumpers Conveyor Holding Fixtures](img/conveyerholdingfixtures3.1.jpg)
 
 Our urethane parts and products will function efficiently in your packaging equipment. Some examples of polyurethane parts and products that we produce for the packaging industry include Cappers, Clamps, Conveyor Holding Fixtures, Gears, Rollers, Wheels, Slides, and Urethane Seals.
 
@@ -16,7 +16,7 @@ Polyurethane Seals
 
 #### Benefits of using our Polyurethane with packaging include:
 
-- [FDA Materials](/fda-specs)
+- [FDA Materials](fda-specs)
 - High Friction - Good Grip
 - Low Friction - Slippery
 - Low Rebound Dead Blow Materials - Energy Absorbing (Quiet)

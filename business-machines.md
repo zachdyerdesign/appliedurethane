@@ -4,9 +4,9 @@ layout: page
 permalink: /business-machines
 ---
 
-![ATM Machine Urethane Rollers](/img/SeBanking.jpg)
+![ATM Machine Urethane Rollers](img/SeBanking.jpg)
 
-Please click [HERE](/img/eBanking_6.jpg) for a Larger View.
+Please click [HERE](img/eBanking_6.jpg) for a Larger View.
 
 Here at Applied Urethane Technology, we engineer and manufacture polyurethane parts for various types of business machines including:
 
@@ -18,11 +18,11 @@ Here at Applied Urethane Technology, we engineer and manufacture polyurethane pa
 - Work Stations
 - OCR Equipment
 - Labeling Equipment
-- [Banking Equipment](/banking-machines)
+- [Banking Equipment](banking-machines)
 
-![Drive Rollers for the Document Transferring Industry](/img/Rollers216x144.jpg)
+![Drive Rollers for the Document Transferring Industry](img/Rollers216x144.jpg)
 
-Please click [HERE](/img/Rollers432x288.jpg) for a Larger View.
+Please click [HERE](img/Rollers432x288.jpg) for a Larger View.
 
 Here are just a few of the many industries which we have produced new business machine parts, and replacement parts for:
 
@@ -39,9 +39,9 @@ We also specialize in customized engraving for your machine parts. We can engrav
 
 #### Engraved Urethane Wheels
 
-![Engraving your instructions or company logo](/img/engraving3_1.jpg)
+![Engraving your instructions or company logo](img/engraving3_1.jpg)
 
-Please click [HERE](/img/engraving6_1.jpg) for a Larger View.
+Please click [HERE](img/engraving6_1.jpg) for a Larger View.
 
 #### The Benefits of using Polyurethane Parts in Office Automation Equipment, and Business Machines include:
 

@@ -41,57 +41,57 @@ plugins:
   
 main-menu:
   - name: Engineering Assistance
-    href: /engineering-assistance
+    href: engineering-assistance
   - name: General Industry
-    href: /general-industry
-  - name: Products & Services
-    href: /products-and-services
+    href: general-industry
+  - name: roducts & Services
+    href: products-and-services
   - name: Why Urethane?
-    href: /why-urethane
+    href: why-urethane
   - name: Glossary
-    href: /glossary 
+    href: glossary 
   - name: About Us
-    href: /about-us
+    href: about-us
   - name: Contact Us
-    href: /contact-us
+    href: contact-us
     
 # Use the store page for the landing page and recommend adding the products shopping cart for the product pages for $100
 products-menu:
   - name: Urethane Bearing Covers 
-    href: /urethane-bearing-covers
+    href: urethane-bearing-covers
   - name: Urethane Belts
-    href: /urethane-belts
+    href: urethane-belts
   - name: Bottle Capper Inserts
-    href: /urethane-capper-inserts
+    href: urethane-capper-inserts
   - name: Urethane Gears
-    href: /urethane-gears
+    href: urethane-gears
   - name: Urethane Drive Rollers
-    href: /urethane-drive-rollers
+    href: urethane-drive-rollers
   - name: Compliant Rollers
-    href: /compliant-rollers
+    href: compliant-rollers
   - name: Hard & Soft Segment Rollers
-    href: /hard-and-soft-segment-rollers
+    href: hard-and-soft-segment-rollers
   - name: Slides & Bumpers
-    href: /slides-and-bumpers
+    href: slides-and-bumpers
   - name: Urethane Wheels
-    href: /urethane-wheels
+    href: urethane-wheels
 
 # Later you can recommend a landing page for these industries for $100
 industries-menu:
   - name: Urethane in Applications 
-    href: /urethane-in-applications
+    href: urethane-in-applications
   - name: Urethane in Automation
-    href: /urethane-in-automation
+    href: urethane-in-automation
   - name: Banking Machines
-    href: /banking-machines
+    href: banking-machines
   - name: Business Machines
-    href: /business-machines
+    href: business-machines
   - name: Material Handling
-    href: /material-handling
+    href: material-handling
   - name: Packaging
-    href: /packaging
+    href: packaging
   - name: Paving Machine
-    href: /paving-machine
+    href: paving-machine
 
 facebook: "https://www.facebook.com/Applied-Urethane-Technology-Inc-613267038759749/"
 linkedin: "https://www.linkedin.com/company/applied-urethane-technology-inc-"

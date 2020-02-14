@@ -10,22 +10,22 @@ Here are just a few Material Handling Equipment Parts that we specialize in manu
 
 #### Dry Wall Rollers
 
-![Dry Wall Creaser Roller](/img/drywallcreasersleeve3.jpg)
+![Dry Wall Creaser Roller](img/drywallcreasersleeve3.jpg)
 
-Please click [HERE](/img/drywallcreasersleeve6.jpg) for a Larger View.
+Please click [HERE](img/drywallcreasersleeve6.jpg) for a Larger View.
 
 
 #### Urethane Clamps
 
-![Urethane Clamps](/img/Clamps3_1.jpg)
+![Urethane Clamps](img/Clamps3_1.jpg)
 
-Please click [HERE](/img/Clamps3_1.jpg) for a Larger View.
+Please click [HERE](img/Clamps3_1.jpg) for a Larger View.
 
 At AUTI, we produce many different kinds of clamps. Below is a picture that shows our ability to produce urethane clamps of different textures.
 
-![Urethane Clamps of different textures](/img/Clamps6Text.jpg)
+![Urethane Clamps of different textures](img/Clamps6Text.jpg)
 
-Please click [HERE](/img/ClampTexture6.jpg) for a Detailed View.
+Please click [HERE](img/ClampTexture6.jpg) for a Detailed View.
 
 #### Benefits of using Polyurethane in Material Handling Situations:
 
