@@ -1,0 +1,122 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Applied Urethane Technology Inc.
+email: tomjohnson@appliedurethane.com
+description: AUTI specializes in the manufacturing of custom molded polyurethane parts for Automation Equipment, Business Machinery, Banking & ATM Equipment, Mail Sorting Machinery, and Medical Equipment. We manufacture urethane parts that meet F.D.A. approved material specifications. We engineer, and manufacture parts that meet Military Specifications, also.
+author: Zach Dyer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+address: 1590 E. Bain Street,
+city: Ozark 
+state: MO 
+zip: 65721
+phone: 1-800-823-0040
+phone2: 417-731-4000
+click-2-call: false #Turn this on if the client wants to click to call
+google-maps: https://www.google.com/maps/place/1590+E+Bain+St,+Ozark,+MO+65721/@37.0012686,-93.1928938,17z/data=!3m1!4b1!4m5!3m4!1s0x87cf715912a8a93d:0xe78e2123046cd2c!8m2!3d37.0012643!4d-93.1907051
+click-4-directions: false 
+
+# Build settings
+# theme: minima
+plugins:
+  - jekyll-feed
+  
+main-menu:
+  - name: Engineering Assistance
+    href: /engineering-assistance
+  - name: General Industry
+    href: /general-industry
+  - name: Products & Services
+    href: /products-and-services
+  - name: Why Urethane?
+    href: /why-urethane
+  - name: Glossary
+    href: /glossary 
+  - name: About Us
+    href: /about-us
+  - name: Contact Us
+    href: /contact-us
+    
+# Use the store page for the landing page and recommend adding the products shopping cart for the product pages for $100
+products-menu:
+  - name: Urethane Bearing Covers 
+    href: /urethane-bearing-covers
+  - name: Urethane Belts
+    href: /urethane-belts
+  - name: Bottle Capper Inserts
+    href: /urethane-capper-inserts
+  - name: Urethane Gears
+    href: /urethane-gears
+  - name: Urethane Drive Rollers
+    href: /urethane-drive-rollers
+  - name: Compliant Rollers
+    href: /compliant-rollers
+  - name: Hard & Soft Segment Rollers
+    href: /hard-and-soft-segment-rollers
+  - name: Slides & Bumpers
+    href: /slides-and-bumpers
+  - name: Urethane Wheels
+    href: /urethane-wheels
+
+# Later you can recommend a landing page for these industries for $100
+industries-menu:
+  - name: Urethane in Applications 
+    href: /urethane-in-applications
+  - name: Urethane in Automation
+    href: /urethane-in-automation
+  - name: Banking Machines
+    href: /banking-machines
+  - name: Business Machines
+    href: /business-machines
+  - name: Material Handling
+    href: /material-handling
+  - name: Packaging
+    href: /packaging
+  - name: Paving Machine
+    href: /paving-machine
+
+facebook: "https://www.facebook.com/Applied-Urethane-Technology-Inc-613267038759749/"
+linkedin: "https://www.linkedin.com/company/applied-urethane-technology-inc-"
+googleplus: "https://www.google.com/maps/place/Applied+Urethane+Technology+Inc./@37.0014272,-93.1955638,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x2f8709d3e641e352!8m2!3d37.0014272!4d-93.1933751?hl=en"
+youtube: "https://www.youtube.com/channel/UCS1esDZNqACPa5Zuuk6aPqA/about"
+pintrest: "https://www.pinterest.com/appliedurethanetechnologyinc/"
+twitter: "https://twitter.com/AppliedUrethane"
+
+hide-slideshow: true
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

@@ -1,0 +1,225 @@
+{% include header.html %}
+
+<div class="col-lg-9 mt-4">
+  <h1>{{ page.title }}</h1>
+  {{ content }}
+
+  <form name="form" method="post" action="http://rbdolls.com/cgi-bin/cgiemail/mailtemp1_auti.txt">
+    <!-- ---------------------- Begin CGI Action ---------------------- -->
+    <div class="form-group">
+      <label for="purpose">What can we do for you?</label>
+      <select name="purpose" id="purpose" class="form-control">
+            <option selected="">choose one</option>
+            <option value="Request For Information">I am Requesting Information</option>
+            <option value="Request for Engineering Assistance">I am Requesting Engineering Assistance</option>
+            <option value="Have someone call me">Have a Representative Call Me</option>
+            <option value="Send me a free sample">Send Me a Free Information/Sample Kit</option>
+            <option value="Other">Other</option>
+          </select>
+    </div>
+    <div class="form-group">
+      <label for="contact">Name (First and Last)<font color="#CC0033">*</font></label>
+      <input type="text" name="contact" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="phone">Phone<font color="#CC0033">*</font></label>
+      <input type="text" name="phone" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="email">E-mail<font color="#CC0033">*</font></label>
+      <input type="text" name="email" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="title">Title</label>
+      <select name="title" class="form-control">
+          <option selected="">choose one</option>
+          <option value="purchasing agent">purchasing agent</option>
+          <option value="egineer">engineer</option>                    
+          <option value="management">general management</option>
+          <option value="technical">technical</option>
+          <option value="educational">educational</option>
+          <option value="other">other</option>
+        </select>
+    </div>
+    <div class="form-group">
+      <label for="other">Other</label>
+      <input type="text" name="other" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="company">Company</label>
+      <input type="text" name="company" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="department">Department</label>
+      <input type="text" name="department" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="address1">Address</label>
+      <input type="text" name="address1" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="address2">Address cont.</label>
+      <input type="text" name="address2" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="city">City</label>
+      <input type="text" name="city" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="state">State</label>
+      <input type="text" name="state" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="zip">Zip Code</label>
+      <input type="text" name="zip" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="country">Country</label>
+      <input type="text" name="country" value="United States" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="fax">Fax</label>
+      <input type="text" name="fax" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="comments">Item Description and Comments:</label>
+      <textarea name="comments" rows="2" cols="50" class="form-control"></textarea>
+      <small>Please describe the items you would like us to manufacture for you.</small>
+    </div>
+    <div class="form-group">
+      <label for="quantity">Quantity of Item Desired:</label>
+      <select name="quantity" class="form-control">
+          <option selected="">please choose one</option>
+          <option value="under 10">under 10</option>
+          <option value="more thane 10">more than 10</option>
+          <option value="25">25</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+          <option value="250">250</option>
+          <option value="500">500</option>
+          <option value="1,000">1,000</option>
+          <option value="5,000">5,000</option>
+          <option value="10,000">10,000</option>
+        </select>
+    </div>
+    <div class="form-group">
+      <label for="refer">Referred by:</label>
+      <select name="refer" class="form-control">
+          <option selected="">Please choose one</option>
+          <option value="Thomas Register web site">Thomas Register web site</option>
+          <option value="Thomas Register catalog">Thomas Register catalog</option>
+          <option value="Google.com">Google.com</option>
+          <option value="Bing.com">Bing.com</option>
+          <option value="Aolsearch.com">AOL Search.com</option>
+          <option value="Yahoo.com">Yahoo.com</option>
+          <option value="Other Internet Search Engine">Other Internet Search Engine</option>
+          <option value="Advertisement">Advertisement</option>
+          <option value="Other">Other</option>
+        </select>
+    </div>
+    <div class="form-group">
+      <label for="referother">Referred by other</label>
+      <input type="text" name="referother" class="form-control">
+    </div>
+    <div class="form-group">
+      <p>If you Need Engineering Assistance, please Continue below: </p>
+    </div>
+    <div class="form-group">
+      <label for="hardness">Urethane Hardness</label>
+      <select name="hardness" class="form-control">
+        <option selected="">choose one</option>
+        <option value="20a">20A</option>
+        <option value="30a">30A</option>
+        <option value="40a">40A</option>
+        <option value="50a">50A</option>
+        <option value="60a">60A</option>
+        <option value="70a">70A</option>
+        <option value="80a">80A</option>
+        <option value="90a">90A</option>
+        <option value="95a">95A</option>
+        <option value="50d">50D</option>
+        <option value="60d">60D</option>
+        <option value="70d">70D</option>
+        <option value="75d">75D</option>
+        <option value="other">other</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="hardother">Other</label>
+      <input type="text" name="hardother" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="life">Life Expectance</label>
+      <input type="text" name="life" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="color">Color</label>
+      <input type="text" name="color" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="material">What material is being handled?</label>
+      <input type="text" name="material" class="form-control">
+      <small>(eg. paper, steel, chicken parts)</small>
+    </div>
+    <div class="form-group">
+      <label for="production">Annual Production</label>
+      <input type="text" name="production" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="temp">Temperature Range</label>
+      <input type="text" name="temp" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="machine">Machine to be used in</label>
+      <input type="text" name="machine" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="sun">Sunlight</label>
+      <input type="checkbox" name="sun" value="yes" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="solvent">Solvents</label>
+      <input type="checkbox" name="solvent" value="yes" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="water">Water</label>
+      <input type="checkbox" name="water" value="yes" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="grease">Grease/Oil</label>
+      <input type="checkbox" name="grease" value="yes" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="fda">FDA/Wet,Dry</label>
+      <input type="checkbox" name="fda" value="yes" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="inserts">Inserts</label>
+      <input type="checkbox" name="inserts" value="yes" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="environment">Enviroment</label>
+      <input type="text" name="enviroment" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="critical">Critical Properties </label>
+      <input type="text" name="critical" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="addcomments">Additional Comments</label>
+      <textarea name="addcomments" class="form-control"></textarea>
+      <small>(eg. abrasion resistance, rebound)</small>
+    </div>
+    <div class="form-group">
+      <input type="submit" name="submit" value="Submit" class="form-control">
+    </div>
+    <div class="form-group">
+      <input type="reset" name="clear" value="Clear" class="form-control">
+    </div>
+    <input type="hidden" name="redirect" value="http://www.urethaneservices.com/thankyou.html">
+    <input name="success" type="hidden" value="http://www.urethaneservices.com/thankyou.html">
+    <hr/>
+</div>
+<!-- /.col-lg-9 -->
+
+{% include footer.html %}

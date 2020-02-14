@@ -1,0 +1,79 @@
+    </div>
+    <!-- /header .row -->
+
+  </div>
+  <!-- /header .container --> 
+
+<!-- Footer -->
+  <footer class="pt-5 pb-5 pt-md-5 border-top bg-dark{% if page.print-friendly %} d-print-none{% endif %}">
+    <div class="container">
+        <div class="row">
+          <div class="col">
+            <h5 class="text-white">Connect with us!</h5>
+            <!-- Add font awesome icons -->
+            {% if site.facebook %}<a href="{{ site.facebook }}" class="fa fa-facebook" target="_blank"></a>{% endif %}
+            {% if site.twitter %}<a href="{{ site.twitter }}" class="fa fa-twitter" target="_blank"></a>{% endif %}
+            {% if site.googleplus %}<a href="{{ site.googleplus }}" class="fa fa-google"></a>{% endif %}
+            {% if site.linkedin %}<a href="{{ site.linkedin }}" class="fa fa-linkedin" target="_blank"></a>{% endif %}
+            {% if site.youtube %}<a href="{{ site.youtube }}" class="fa fa-youtube" target="_blank"></a>{% endif %}
+            {% if site.instagram %}<a href="{{ site.instagram }}" class="fa fa-instagram" target="_blank"></a>{% endif %}
+            {% if site.pintrest %}<a href="{{ site.pintrest }}" class="fa fa-pinterest" target="_blank"></a>{% endif %}
+            {% if site.snapchat %}<a href="{{ site.snapchat }}" class="fa fa-snapchat-ghost" target="_blank"></a>{% endif %}
+            {% if site.skype %}<a href="{{ site.skype }}" class="fa fa-skype" target="_blank"></a>{% endif %}
+            {% if site.android %}<a href="{{ site.android }}" class="fa fa-android" target="_blank"></a>{% endif %}
+            {% if site.dribbble %}<a href="{{ site.dribbble }}" class="fa fa-dribbble" target="_blank"></a>{% endif %}
+            {% if site.vimeo %}<a href="{{ site.vimeo }}" class="fa fa-vimeo" target="_blank"></a>{% endif %}
+            {% if site.tumblr %}<a href="{{ site.tumblr }}" class="fa fa-tumblr" target="_blank"></a>{% endif %}
+            {% if site.vine %}<a href="{{ site.vine }}" class="fa fa-vine" target="_blank"></a>{% endif %}
+            {% if site.foursquare %}<a href="{{ site.foursquare }}" class="fa fa-foursquare" target="_blank"></a>{% endif %}
+            {% if site.stumbleupon %}<a href="{{ site.stumbleupon }}" class="fa fa-stumbleupon" target="_blank"></a>{% endif %}
+            {% if site.flickr %}<a href="{{ site.flickr }}" class="fa fa-flickr" target="_blank"></a>{% endif %}
+            {% if site.yahoo %}<a href="{{ site.yahoo }}" class="fa fa-yahoo" target="_blank"></a>{% endif %}
+            {% if site.reddit %}<a href="{{ site.reddit }}" class="fa fa-reddit" target="_blank"></a>{% endif %}
+            {% if site.rss %}<a href="{{ site.rss }}" class="fa fa-rss" target="_blank"></a>{% endif %}
+            <p class="text-white">Our Web Site is frequently updated, so please check back often. And for IE users add us to your favorites list with the button below.</p>
+            <button class="btn btn-primary" onclick="window.external.AddFavorite(location.href, document.title);">Add site to IE favorites</button>
+          </div>
+          <div class="col">
+            <h5 class="text-white">{{ site.title }}</h5>
+            <p class="text-white">
+              {% if site.click-4-directions %}<a href="{{ site.google-maps }}" target="_blank">{% endif %}{{ site.address }}</a><br/>
+              {{ site.city }}, {{ site.state }} {{ site.zip }}<p/>
+
+            <p class="text-white">
+              Call Us Toll Free at:<br/>
+              {% if site.click-2-call %}<a href="tel: {{ site.phone }}">{% endif %}{{ site.phone }}</a><br/>
+              {% if site.phone2 %}or {% if click-2-call %}<a href="tel: {{ site.phone2 }}">{% endif %}{{ site.phone2 }}{% endif %}
+            </p>
+            
+            <p class="text-white">
+              Email Us by Clicking on the Link Below:<br/>
+              <a href="mailto: {{ site.email }}">{{ site.email }}</a>
+            </p>
+           
+          </div>
+          <div class="col">
+            <h5 class="text-white">Share Us!</h5>
+            <p class="text-white">Email this site to a Friend, Coworker, or fellow Engineer</p>
+            <!-- Go to www.addthis.com/dashboard to customize your tools --> 
+            <div class="addthis_inline_share_toolbox_990g"></div>
+          </div>
+          <div class="col">
+            <h5 class="text-white">Copyright Info</h5>
+            <p class="text-small text-white"><small>No part of this web site, including the Contents, Text, HTML Code, Graphics and Images contained herein, may be used or reproduced in any manner whatsoever without the prior written permission of Applied Urethane Technology, Inc. Violators of this Copyright Notice will be prosecuted to the fullest extent of U.S. and International Copyright Laws.</small></p>
+          </div>
+        </div>
+        <p class="m-0 text-center text-white">Copyright &copy; {{site.title}} 2020. All Rights Reserved.<br/> 
+      Website created by <a href="https://zachdyerdesign.com" target="_blank">Zach Dyer Design</a></p>
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <!-- Go to www.addthis.com/dashboard to customize your tools --> 
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-527eed0a394a5fe0"></script>
+</body>
+
+</html>

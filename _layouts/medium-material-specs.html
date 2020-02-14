@@ -1,0 +1,34 @@
+{% include header.html %}
+
+      <div class="col-lg-9 mt-4">
+        <h1>{{ page.title }}</h1>
+        <div class="table-responsive">
+          <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">Physical Property</th>
+                <th scope="col">ASTM Method</th>
+                <th scope="col">A</th>
+                <th scope="col">B</th>
+                <th scope="col">C</th>
+                <th scope="col">D</th>
+              </tr>
+            </thead>
+            <tbody>
+            {% for row in site.data.medium-material-specs %}
+              <tr>
+                <td>{{ row.physical-property }}</td>
+                <td>{{ row.astm-method }}</td>
+                <td>{{ row.a }}</td>
+                <td>{{ row.b }}</td>
+                <td>{{ row.c }}</td>
+                <td>{{ row.d }}</td>
+              </tr>
+            {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <!-- /.col-lg-9 -->
+
+ {% include footer.html %}

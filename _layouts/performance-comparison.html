@@ -1,0 +1,44 @@
+{% include header.html %}
+
+      <div class="col-lg-9 mt-4">
+        <h1>{{ page.title }}</h1>
+        <div class="table-responsive">
+          <table class="table">
+            <thead>
+              <tr>
+                <th scope="col" style="width: 15%">Elastomer Type</th>
+                <th scope="col" style="width: 8.5%">Relative Importance</th>
+                <th scope="col" style="width: 8.5%">Castable 8011 6007 6005</th>
+                <th scope="col" style="width: 8.5%">Millable Gum* 5004</th>
+                <th scope="col" style="width: 8.5%">EPDM</th>
+                <th scope="col" style="width: 8.5%">Nitrile</th>
+                <th scope="col" style="width: 8.5%">Nitrile/PVC</th>
+                <th scope="col" style="width: 8.5%">Neoprene</th>
+                <th scope="col" style="width: 8.5%">Rubber</th>
+                <th scope="col" style="width: 8.5%">Natural Rubber</th>
+                <th scope="col" style="width: 8.5%">Hypalon</th>
+              </tr>
+            </thead>
+            <tbody>
+            {% for row in site.data.performance-comparison %}
+              <tr>
+                <td><small>{{ row.elastomer-type }}</small></td>
+                <td>{{ row.rel-importance }}</td>
+                <td>{{ row.castable }}</td>
+                <td>{{ row.millable }}</td>
+                <td>{{ row.epdm }}</td>
+                <td>{{ row.nitrile }}</td>
+                <td>{{ row.nitrile-pvc }}</td>
+                <td>{{ row.neoprene }}</td>
+                <td>{{ row.rubber }}</td>
+                <td>{{ row.natural-rubber }}</td>
+                <td>{{ row.hypalon }}</td>
+              </tr>
+            {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <!-- /.col-lg-9 -->
+
+ {% include footer.html %}

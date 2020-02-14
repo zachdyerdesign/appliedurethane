@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="{{site.description}}">
+  <meta name="author" content="Zach Dyer">
+
+  <title>{{site.title}} | {{ page.title }}</title>
+
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="/css/bootstrap.css">
+  
+  <!-- Fontawesome icon library -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+  
+  <!-- Custom styles for this template -->
+  <link href="css/shop-homepage.css" rel="stylesheet">
+  <link href="css/brand.css" rel="stylesheet">
+  <link href="css/slideshow.css" rel="stylesheet">
+  <link href="css/social-icons.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="/"><img src="/img/logo.gif" alt="{{site.title}} Logo" title="{{site.title}} Logo"/></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          {% for link in site.main-menu %}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ link.href }}">{{ link.name }}
+              <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </nav>
+  
+    <!-- Page Content -->
+  <div class="container">
+
+    <div class="row">
+      {% if page.hide-menu != "" %}
+      <div class="col-lg-3 mt-4 {% if page.print-friendly %} d-print-none{% endif %}">
+
+        <h1 class="h4 text-primary">{{site.title}}</h1>
+        <div class="list-group mb-4">
+          <h6 class="text-uppercase list-group-item active">Specific Products</h6>
+          {% for link in site.products-menu %}
+          <a href="{{ link.href }}" class="list-group-item">{{link.name}}</a>
+          {% endfor %}
+        </div>
+        <div class="list-group mb-4">
+          <h6 class="text-uppercase list-group-item active">Specific Industries</h6>
+          {% for link in site.industries-menu %}
+          <a href="{{ link.href }}" class="list-group-item">{{link.name}}</a>
+          {% endfor %}
+        </div>
+        <div class="list-group mb-4">
+          <h6 class="text-uppercase list-group-item active">Purchase Products</h6>
+          <a href="/store" class="list-group-item">The AUTI Store</a>
+        </div>
+        {% endif %}
+      </div>
+      <!-- /.col-lg-3 -->

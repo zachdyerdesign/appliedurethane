@@ -1,0 +1,21 @@
+.bg-primary {
+  background-color: #b84e4e !important;
+}
+.list-group-item.active {
+  background-color: #b84e4e;
+  border-color: #b84e4e;
+}
+a {
+  color: #b84e4e;
+}
+a:hover {
+  color: #da6060;
+} 
+
+body {
+    padding-top: 96px;
+}
+
+.text-primary {
+  color: #b84e4e !important;
+}

@@ -1,0 +1,9 @@
+elastomer-type,rel-importance,castable,millable,epdm,nitrile,nitrile-pvc,neoprene,rubber,natural-rubber,hypalon
+Stability of hardness in solvents (resistance to extraction),5,5,5,4,3,2,4,4,4,4
+Swell resistance in nonpolar solvents (oils),5,5,5,1,4,4,3,1,1,3
+Ink pickup,5,5,5,2,5,4,4,2,2,3
+Tear and abrasion resistance,4,5,4,2,2,2,3,2,3,3
+Low heat buildup at high operating speeds,4,3,3,3,2,1,3,1,5,2
+Swell resistance in polar solvents (eg. ultraviolet inks),3,2,3,5,1,1,2,5,5,2
+Performance Index,,113,112,70,79,65,85,62,82,76
+Scaled Performance Index (100=best),,100,99,62,70,58,75,55,73,67
