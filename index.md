@@ -2,13 +2,13 @@
 layout: home
 title: Home Page
 slides:
-  - src: /img/slide1.jpg
+  - src: img/slide1.jpg
     active: active
     alt: Polyurethane gears
-#  - src: /img/slide2.jpg
+#  - src: img/slide2.jpg
 #    active: 
 #    alt: Polyurethane gears
-#  - src: /img/slide3.jpg
+#  - src: img/slide3.jpg
 #    active: 
 #    alt: Waterproof polyurethane parts
 hide-slideshow: true
