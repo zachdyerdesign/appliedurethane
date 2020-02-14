@@ -4,7 +4,7 @@ layout: page
 permalink: /products-and-services
 ---
 
-<img src="{{site.url}}/img/polyurethane_products.jpg" title="Just a few of our Urethane Products" alt="Just a few of our Urethane Products" class="img-fluid">
+<img src="img/polyurethane_products.jpg" title="Just a few of our Urethane Products" alt="Just a few of our Urethane Products" class="img-fluid">
 
 AUTI is a full-service Urethane Product Manufacturer. For detailed information about particular polyurethane products or business application engineering services, please click on one of the following links below:
 
@@ -30,4 +30,5 @@ AUTI is a full-service Urethane Product Manufacturer. For detailed information a
 - [Material Handling](material-handling)
 - [Packaging](packaging)
 - [Paving Machines](paving-machines)
-![urethane ATM Machine Rollers]({{site.url}}/img/SeBanking.jpg)  ![urethane drive rollers]({{site.url}}/img/Drive_Rollers_ All3.jpg)
+
+<img src="img/eBanking_6.jpg" title="urethane ATM Machine Rollers" alt="urethane ATM Machine Rollers" class="img-fluid">
