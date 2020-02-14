@@ -23,7 +23,7 @@ email: tomjohnson@appliedurethane.com
 description: AUTI specializes in the manufacturing of custom molded polyurethane parts for Automation Equipment, Business Machinery, Banking & ATM Equipment, Mail Sorting Machinery, and Medical Equipment. We manufacture urethane parts that meet F.D.A. approved material specifications. We engineer, and manufacture parts that meet Military Specifications, also.
 author: Zach Dyer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zachdyerdesign.com/appliedurethane" # the base hostname & protocol for your site, e.g. http://example.com
 address: 1590 E. Bain Street,
 city: Ozark 
 state: MO 
