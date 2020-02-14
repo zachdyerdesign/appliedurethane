@@ -12,7 +12,7 @@ Listed below are just a few of the many custom molded urethane parts that we man
 
 ![Custom Molded Machine Gears]({{site.url}}/img/SeGEARS.jpg)
 
-Please click [HERE](img/eGEARS.jpg) for a Larger View.
+Please click [HERE]({{site.url}}/img/eGEARS.jpg) for a Larger View.
 
 - Wear Resistant, High Strength Elastomer; Specifically formulated to meet exact requirements; 30A-75D.
 - Prototyping to Production.
@@ -22,4 +22,4 @@ Please click [HERE](img/eGEARS.jpg) for a Larger View.
 
 ![Aquatic Urethane Submarine Fins]({{site.url}}/img/FIN3X2.jpg)
 
-Please click [HERE](./img/FIN6X4.jpg) for a Larger View.
+Please click [HERE]({{site.url}}/img/FIN6X4.jpg) for a Larger View.

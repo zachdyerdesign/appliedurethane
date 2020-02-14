@@ -6,7 +6,7 @@ permalink: /why-urethane
 
 To view our products: 
 please [click here](products-and-services)	 
-![Urethane Product](img/CleatedBelts.jpg)
+![Urethane Product]({{site.url}}/img/CleatedBelts.jpg)
 
 Listed below are some of the major reasons why Urethane is the preferred material for use in numerous products across a wide spectrum of applications:
 
@@ -31,7 +31,7 @@ Listed below are some of the major reasons why Urethane is the preferred materia
   - Maintains Coefficient of Friction
 - Oxygen & Ozone Resistant
 
-![Click here to go to our Products & Services](img/IconGEAR.jpg) For Product Details of our high quality Urethane Products, please [Click Here](/products-and-services).
+![Click here to go to our Products & Services]({{site.url}}/img/IconGEAR.jpg) For Product Details of our high quality Urethane Products, please [Click Here](/products-and-services).
 
 Below is a link to our Glossary of Urethane / Polyurethane Related Terms Page. You can find many common terms used in the production of Urethane, and their definitions:
 
