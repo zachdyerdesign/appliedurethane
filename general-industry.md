@@ -20,6 +20,6 @@ Please click [HERE](img/eGEARS.jpg) for a Larger View.
 - F.D.A. Materials, Mil-Spec. Defense work, Short run to high volume production.
 
 
-![Aquatic Urethane Submarine Fin](img/FIN3X2.jpg)
+![Aquatic Urethane Submarine Fins](img/FIN3X2.jpg)
 
 Please click [HERE](img/FIN6X4.jpg) for a Larger View.
