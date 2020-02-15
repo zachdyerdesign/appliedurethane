@@ -3,7 +3,7 @@ title: Urethane Bearing Covers
 layout: page
 permalink: /urethane-bearing-covers
 slides: 
-  - src: /img/bearing_6.jpg
+  - src: img/bearing_6.jpg
     active: active
     alt: Urethane bearing covers
 hide-slideshow: true
