@@ -8,7 +8,7 @@ Applied Urethane Technology Inc. (AUTI) is a manufacturer of quality Cast Uretha
 
 We specialize in the manufacturing of custom molded urethane parts for: Material Handling Equipment, Business Machinery, Printing Equipment, Rollers, Mail Sorting Machinery, Medical Equipment, Noise Abatement Gears, Elevator and Escalator components, Power Transmission Couplings, Bumpers, Waste Water Treatment components. We also specialize in: F.D.A. Materials, Mil-Spec. Defense Work, and Short Run to High Run Volume Production.
 
-![Applied Urethane Technology, Inc. - Ozark, Missouri-USA](img/building.jpg)
+<img src="img/building.jpg" alt="Applied Urethane Technology, Inc. - Ozark, Missouri-USA" title="Applied Urethane Technology, Inc. - Ozark, Missouri-USA" class="img-fluid">
 
 We manufacture polyurethane parts for both U.S. and [International Customers](international).
 
