@@ -1,49 +1,33 @@
 ---
-title: Welcome to Drive Roller.com
+title: Other Polyurethane Drive Rollers
 layout: page
-permalink: /drive-roller
+permalink: /other-drive-rollers
 ---
 
-Various Drive Rollers
+These are just a few of the many different types of Custom Molded Urethane Drive Rollers that we manufacture. To view the Main Polyurethane Drive Roller Page, please click [HERE](urethane-drive-rollers)
+
+##### Urethane Bonded to Metal Rollers
+
+Urethane Bonded to Metal Roller
+<img src="/img/" alt="" title="" class="img-fluid">
 Please click HERE for a Larger View.
-Urethane Drive Rollers
-Long Lasting Urethane Rollers
 
-AUTI is a leading manufacturer of high quality, and long lasting urethane rollers. We offer High Grip (high co-efficient of friction) rollers with a precision ground to drive your products.
+Urethane Bonded to Metal Keyed Roller
+<img src="/img/" alt="" title="" class="img-fluid">
+Please click HERE for a Larger View.
 
-Polyurethane Drive Rollers that we manufacture include:
+AUTI produces many different types of polyurethane rollers including drive rollers with urethane bonded to metals such as steel. Please contact us to let us show you how we can meet your urethane to metal bonding applications needs.
 
-- Idler Rollers
-- Pull Rollers
-- Spline Rollers
-- Capstan Rollers
-- Transfer Rollers
-- Index Rollers
-- Friction Rollers
-- Feed Rollers
-- Pinch Rollers
-- Pick Rollers
-- Compliant Rollers
-- Hard/Soft Segment Rollers
-    	
-Hard/Soft Segment Rollers
-Hard & Soft Segment Rollers
-Custom Molded Drive Rollers
-Urethane Drive Rollers
-AUTI manufactures Custom Molded Polyurethane Drive Rollers with a Metal Core and/or Keyway Inserts.
 
-To see a few pictures of other types of Urethane Drive Rollers in this category that we manufacture, please click [HERE](drive-roller)
+Custom Molded Urethane Rollers
+<img src="/img/" alt="" title="" class="img-fluid">
+Please click HERE for a Larger View.
 
-Drive Rollers that use Polyurethane have the following characteristics:
+Custom Molded Urethane Roller
+<img src="/img/" alt="" title="" class="img-fluid">
+Please click HERE for a Larger View.
 
-- High Quality
-- Durable
-- Resilient
-- Excellent Shock Absorption
-- High Load-Bearing
-- High Rebound
-- Dimensional Stability
-- Abrasion Resistant
-- Reduced Down Time
-- Reduced Maintenance Costs
+Compliant Rollers
+<img src="/img/" alt="" title="" class="img-fluid">
+Please click HERE for a Larger View.
  

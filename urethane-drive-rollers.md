@@ -4,7 +4,7 @@ layout: page
 permalink: /urethane-drive-rollers
 ---
 
-![Urethane Rollers](img/ROLLERS3_1.jpg)
+<img src="img/ROLLERS3_1.jpg" alt="Urethane Rollers" title="Urethane Rollers" class="img-fluid">
 
 Please click [HERE](img/ROLLERS6_1.jpg) for a Larger View.
 
@@ -56,24 +56,24 @@ These are just a few of the many different types of Custom Molded Urethane Drive
 
 #### Urethane Bonded to Metal Rollers
 
-![Urethane Bonded to Metal Roller](img/yellow_roller216x144.jpg)
+<img src="img/yellow_roller216x144.jpg" alt="Urethane Bonded to Metal Roller" title="Urethane Bonded to Metal Roller" class="img-fluid">
 
 Please click [HERE](img/urethane_bonded_to_metal.jpg) for a Larger View.
 
-![Urethane Bonded to Metal Keyed Roller](img/urethane_bonded_to_metal.jpg)
+<img src="img/urethane_bonded_to_metal.jpg" alt="Urethane Bonded to Metal Keyed Roller" title="Urethane Bonded to Metal Keyed Roller" class="img-fluid">
 
 Please click [HERE](img/urethane_bonded_to_metal_roller.jpg) for a Larger View.
 
 AUTI produces many different types of polyurethane rollers including drive rollers with urethane bonded to metals such as steel. Please contact us to let us show you how we can meet your urethane to metal bonding applications needs.
 
-![Custom Molded Urethane Rollers](img/Rollers216x144.jpg)
+<img src="img/Rollers216x144.jpg" alt="Custom Molded Urethane Rollers" title="Custom Molded Urethane Rollers" class="img-fluid">
 
 Please click [HERE](img/Rollers432x288.jpg) for a Larger View.
 
-![Custom Molded Urethane Roller](img/BU3.jpg)
+<img src="img/BU3.jpg" alt="Custom Molded Urethane Roller" title="Custom Molded Urethane Roller" class="img-fluid">
 
 Please click [HERE](img/BU6.jpg) for a Larger View.
 
-![Compliant Rollers](img/set3.jpg)
+<img src="img/set3.jpg" alt="Compliant Rollers" title="Compliant Rollers" class="img-fluid">
 
 Please click [HERE](img/set6.jpg) for a Larger View.

@@ -4,11 +4,11 @@ layout: page
 permalink: /banking-machines
 ---
 
-![ATM Machine Rollers](img/SeBanking.jpg)
+<img src="img/SeBanking.jpg" alt="ATM Machine Rollers" title="ATM Machine Rollers" class="img-fluid">
 
 Please click [HERE](img/eBanking_6.jpg) for a Larger View.
 
-![Drive Rollers for the Document Transferring Industry](img/Rollers216x144.jpg)
+<img src="img/Rollers216x144.jpg" alt="Drive Rollers for the Document Transferring Industry" title="Drive Rollers for the Document Transferring Industry" class="img-fluid">
 
 Please click [HERE](img/Rollers432x288.jpg) for a Larger View.
 

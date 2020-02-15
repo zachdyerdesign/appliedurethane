@@ -5,7 +5,7 @@ permalink: /urethane-capper-inserts
 print-friendly: true
 ---
 
-![Bottle Capping Inserts](img/3BottleCap.jpg)
+<img src="img/3BottleCap.jpg" alt="Bottle Capping Inserts" title="Bottle Capping Inserts" class="img-fluid">
 
 Please click [HERE](img/6BC2.jpg) for a Larger View. In the picture, you can see the various sizes of polyurethane bottle capping inserts that we produce measured against the scale of a 6 inch ruler:
 

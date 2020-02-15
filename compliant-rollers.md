@@ -4,7 +4,7 @@ layout: page
 permalink: /compliant-rollers
 ---
 
-![Urethane Compliant Rollers](img/Compliance6.jpg)
+<img src="img/Compliance6.jpg" alt="" title="" class="img-fluid">
 
 A simple variable Pinch Roller:
 
@@ -12,7 +12,7 @@ Replace your pivot, lever, and spring mechanism with AUTI’s Compliant Rollers.
 
 Our Polyurethane Compliant Rollers reduce the complexity and space required by the old lever system. These rollers are in used in Document Handling Equipment such as Mail Handling Machinery, Material Handling Equipment, and for other types of machinery in many different kinds of industries including yours.
 
-![Polyurethane Compliant Rollers](img/set3.jpg)
+<img src="img/set3.jpg" alt="Polyurethane Compliant Rollers" title="Polyurethane Compliant Rollers" class="img-fluid">
 
 Please click [HERE](img/set6.jpg) for a Larger View.
 
