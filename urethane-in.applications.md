@@ -12,9 +12,9 @@ Listed below are just a few of the many urethane products that we manufacture fo
 
 Please click [HERE](img/ALL6.jpg) for a Larger View.
 
-- [Potting Compounds](/engineering-assistance#potting-compounds)
+- [Potting Compounds](engineering-assistance#potting-compounds)
 
-- [Various Rollers](/urethane-drive-rollers)
+- [Various Rollers](urethane-drive-rollers)
 
 ![Various Urethane Rollers](img/ROLLERS3.jpg)
 
@@ -30,7 +30,7 @@ For pictures of other products in this category, please click [HERE](/urethane-d
 
 Please click [HERE](img/eGEARS.jpg) for a Larger View.
 
-- [Clamps](/Clamps6_1.jpg)
+- [Clamps](img/Clamps6_1.jpg)
 
 - [Drive Belts](urethane-belts)
 
