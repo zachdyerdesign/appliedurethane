@@ -7,7 +7,7 @@ permalink: /urethane-belts
 
 #### Various Drive Belts
 
-![various urethane drive belts](img/ALL3.jpg)
+<img src="img/ALL3.jpg" alt="various urethane drive belts" titl="various urethane drive belts" class="img-fluid">
 
 AUTI manufactures urethane belting that will keep your Equipment performing at maximum efficiency.
 
@@ -18,7 +18,8 @@ At AUTI we will analyze your Polyurethane Belting needs for such factors as the 
 We manufacture High Quality Precision Non-Reinforced Urethane Drive Belts.
 
 #### Cleated Urethane Belts
-![Urethane Cleated Belts](img/tread3.jpg)
+
+<img src="img/tread3.jpg" alt="Urethane Cleated Belts" title="Urethane Cleated Belts" class="img-fluid">
 
 Please click [HERE](img/tread6.jpg) for a Larger View.
 
@@ -29,7 +30,7 @@ We can manufacture high quality precision Document Transfer Belts for your Busin
 
 #### Polyurethane O-Rings
 
-![Polyurethane O-Rings](img/orings3.jpg) 
+<img src="img/orings3.jpg" alt="Polyurethane O-Rings" title="Polyurethane O-Rings" class="img-fluid">
 
 Please click [HERE](img/orings6.jpg) for a Larger View.
 
