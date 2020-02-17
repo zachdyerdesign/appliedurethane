@@ -10,25 +10,25 @@ Let our staff help make your job easier. Urethane can replace many materials doi
 
 #### Polyurethane Cams
 
-![Urethane Cams](/img/cams3.jpg)
+![Urethane Cams](img/cams3.jpg)
 
-Please click [HERE](/img/cams6.jpg) for a Larger View.
+Please click [HERE](img/cams6.jpg) for a Larger View.
 
 Our urethane cams will make your machinery more reliable. With our urethanes, your cams will last longer, maintain dimensional stability, and will not mark the product.
 
 #### Conveyor Holding Fixtures
 
-![Conveyor Holding Fixture](/img/conveyerholdingfixtures3.1.jpg)
+![Conveyor Holding Fixture](img/conveyerholdingfixtures3.1.jpg)
 
-Please click [HERE](/img/conveyerholdingfixtures6.jpg) for a Larger View.
+Please click [HERE](img/conveyerholdingfixtures6.jpg) for a Larger View.
 
 We can make custom Conveyor Holding Fixtures for your assembly lines.
 
 #### Star Wheel (Indexing Wheel)
 
-![Star Wheel Indexing Wheel](/img/R3.jpg)
+![Star Wheel Indexing Wheel](img/R3.jpg)
 
-Please click [HERE](/img/R6.jpg) for a Larger View.
+Please click [HERE](img/R6.jpg) for a Larger View.
 
 The Benefits of using Urethane in Automation include:
 
