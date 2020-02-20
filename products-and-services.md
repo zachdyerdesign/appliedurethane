@@ -16,7 +16,7 @@ AUTI is a full-service Urethane Product Manufacturer. For detailed information a
 - ![Click here to go to our Urethane Cams page]({{site.url}}/img/cams50.jpg) [Polyurethane Cams](urethane-in-automation)
 - ![Click here to go to our GEARS page]({{site.url}}/img/IconGEAR.jpg) [Urethane Gears](urethane-gears)
 - ![Click here to go to our Urethane Rollers page]({{site.url}}/img/ICONrollers.jpg) [Urethane Drive Rollers](urethane-drive-rollers)
-  - ![Click here to go to our Urethane Compliant Rollers page]({{site.url}}/img/Roller50.jpg) [Urethane Compliant Rollers](compliant-rollers)
+- ![Click here to go to our Urethane Compliant Rollers page]({{site.url}}/img/Roller50.jpg) [Urethane Compliant Rollers](compliant-rollers)
 - ![Click here to go to our HARD SEGMENT & SOFT SEGMENT ROLLERS page]({{site.url}}/img/soft.jpg) [Hard Segment/Soft Segment Rollers](hard-and-soft-segment-rollers)
 - ![Click here to go to our Urethane Slides and Bumpers page]({{site.url}}/img/slidesNbumbers.jpg) [Urethane Slides & Bumpers](slides-and-bumpers)
 - ![Click here to go to our Urethane Wheels page]({{site.url}}/img/ICONengravedWheel.jpg) [Urethane Wheels](urethane-wheels)
