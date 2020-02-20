@@ -31,7 +31,7 @@ Listed below are some of the major reasons why Urethane is the preferred materia
   - Maintains Coefficient of Friction
 - Oxygen & Ozone Resistant
 
-![Click here to go to our Products & Services]({{site.url}}/img/IconGEAR.jpg) For Product Details of our high quality Urethane Products, please [Click Here](/products-and-services).
+![Click here to go to our Products & Services]({{site.url}}/img/IconGEAR.jpg) For Product Details of our high quality Urethane Products, please [Click Here](products-and-services).
 
 Below is a link to our Glossary of Urethane / Polyurethane Related Terms Page. You can find many common terms used in the production of Urethane, and their definitions:
 

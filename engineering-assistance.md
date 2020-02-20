@@ -31,7 +31,7 @@ Please click on the charts below for a performance comparison between Urethane, 
 
 [Performance Comparison](performance-comparison)
 
-[Soft Material Specifications](soft-sheet-materials)
+[Soft Material Specifications](soft-material-specs)
 
 [Medium Material Specifications](medium-material-specs)
 

@@ -58,5 +58,5 @@ We manufacture high quality urethane seals, beaters, clamps, belts, and other ur
 
 For Product Details of our high quality Urethane Products, please [Click Here](products-and-services).  
 
-[Go back to Engineering Assistance](engeneering-assistance)
+[Go back to Engineering Assistance](engineering-assistance)
 
