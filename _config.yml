@@ -22,7 +22,7 @@ title: Applied Urethane Technology Inc.
 email: tomjohnson@appliedurethane.com
 description: Manufacturer of custom molded urethane parts, cast urethane molds, polyurethane parts, bushings, drive rollers, urethane molding, belting, wheels, polyurethane belts, bearing covers, engineering assistance available
 keywords: urethane, polyurethane drive rollers, urethane wheels, bushings, bearing covers, belts, services, applied urethane technology, custom molded, castable, materials, parts, bottle capper inserts, missouri company, mo, manufacturer, automation
-author: Zach Dyer
+author: Zach Dyer Design
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://appliedurethane.com" # the base hostname & protocol for your site, e.g. http://example.com
 address: 1590 E. Bain Street,
@@ -39,6 +39,7 @@ click-4-directions: false
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   
 main-menu:
   - name: Engineering Assistance
