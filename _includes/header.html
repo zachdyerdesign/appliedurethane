@@ -31,23 +31,92 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="{{'/' | relative_url}}"><img src="img/auti_logo1.gif" alt="{{site.title}} Logo" title="{{site.title}} Logo"/></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
-          {% for link in site.main-menu %}
-          <li class="nav-item">
-            <a class="nav-link" href="{{ link.href }}">{{ link.name }}
-              <span class="sr-only">(current)</span>
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
+        <button class="navbar-toggler navbar-toggler-right align-self-center my-2" type="button" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <h1 class="pb-2 ml-lg-2 mx-3"><a class="navbar-brand" href="{{'/' | relative_url}}"><img src="img/auti_logo1.gif" alt="{{site.title}} Logo" title="{{site.title}} Logo"/></a></h1>
+        <div class="collapse navbar-collapse flex-column ml-lg-0 ml-3" id="navbarCollapse">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="about-us">About Us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact-us">Contact Us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="tel: 1-800-823-0040">1-800-823-0040</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="store">Store</a>
+                </li>
+                <li class="nav-item">
+                    <form class="form-inline my-2 my-lg-0">
+                      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                      <button class="btn my-2 my-sm-0" type="submit">Search</button>
+                    </form>
+                </li>
+            </ul>
+            <hr style="width: 100%;" />
+            <ul class="navbar-nav flex-row mb-2">
+              <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Our Products
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="urethane-bearing-covers">Urethane Bearing Covers/Idler Rollers</a>
+                    <a class="dropdown-item" href="urethane-belts">Urethane Belts</a>
+                    <a class="dropdown-item" href="urethane-capper-inserts">Bottle Capper Machine Inserts</a>
+                    <a class="dropdown-item" href="#">Polyurethane Bushings</a>
+                    <a class="dropdown-item" href="urethane-drive-rollers">Urethane Drive Rollers</a>
+                    <a class="dropdown-item" href="hard-and-soft-segment-rollers">Compliant Rollers/No Crush Rollers</a>
+                    <a class="dropdown-item" href="urethane-wheels">Polyurethane Wheels</a>
+                    <a class="dropdown-item" href="#">Urethane Clamping Products</a>
+                  </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products for Specific Industries</a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="urethane-bearing-covers">Mailing Machine Parts</a>
+                    <a class="dropdown-item" href="urethane-in-applications">Urethane In Applications</a>
+                    <a class="dropdown-item" href="urethane-in-automation">Urethane in Automation</a>
+                    <a class="dropdown-item" href="banking-machines">Banking Machines</a>
+                    <a class="dropdown-item" href="material-handling">Material Handling</a>
+                    <a class="dropdown-item" href="packaging">Packaging</a>
+                    <a class="dropdown-item" href="paving-machine">Paving Machine</a>
+                    <a class="dropdown-item" href="urethane-capper-inserts">Bottle Capper Machine Inserts</a>
+                    <a class="dropdown-item" href="urethane-capper-inserts">Bottle Capper Machine Inserts</a>
+                    <a class="dropdown-item" href="#">Automotive (Factory & Vehicles)</a>
+                    <a class="dropdown-item" href="#">Factory Roller Maintenance and Upgrade</a>
+                  </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link py-0 pr-3" href="general-industry">Industries Served</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link py-0 pr-3" href="engineering-assistance">Engineering Assistance</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link py-0 pr-3" href="why-urethane">Why Urethane?</a>
+                </li>
+              <li class="nav-item">
+                    <a class="nav-link py-0 pr-3" href="glossary">Glossary</a>
+                </li>
+              <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Material Specifications</a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="soft-material-specs">Soft Material Specifications</a>
+                    <a class="dropdown-item" href="medium-material-specs">Medium Material Specifications</a>
+                    <a class="dropdown-item" href="hard-material-specs">Hard Material Specifications</a>
+                    <a class="dropdown-item" href="fda-specs">FDA Food Handling Specifications</a>
+                  </div>
+                </li>
+              <li class="nav-item">
+                    <a class="nav-link" href="performance-comparison">Performance Comparison</a>
+                </li>
+            </ul>
+        </div>
     </div>
-  </nav>
+</nav>
   
     <!-- Page Content -->
   <div class="container">

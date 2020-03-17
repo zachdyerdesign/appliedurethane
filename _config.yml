@@ -36,12 +36,19 @@ google-maps: https://www.google.com/maps/place/1590+E+Bain+St,+Ozark,+MO+65721/@
 click-4-directions: false 
 
 # Build settings
-# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   
 main-menu:
+  - name: About Us
+    href: about-us
+  - name: Contact Us
+    href: contact-us
+  - name: 1-800-823-0040
+    href: "tel: 1-800-823-0040"
+  - name: Store
+    href: store
   - name: Engineering Assistance
     href: engineering-assistance
   - name: General Industry
@@ -52,10 +59,7 @@ main-menu:
     href: why-urethane
   - name: Glossary
     href: glossary 
-  - name: About Us
-    href: about-us
-  - name: Contact Us
-    href: contact-us
+  
     
 # Use the store page for the landing page and recommend adding the products shopping cart for the product pages for $100
 products-menu:
