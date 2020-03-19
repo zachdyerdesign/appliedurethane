@@ -44,7 +44,7 @@
                     <a class="nav-link" href="contact-us">Contact Us</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="tel: 1-800-823-0040">1-800-823-0040</a>
+                    <a class="nav-link" href="tel: 417-731-4000">417-731-4000</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="store">Store</a>
@@ -57,7 +57,7 @@
                 </li>
             </ul>
             <hr style="width: 100%;" />
-            <ul class="navbar-nav flex-row mb-2">
+            <ul class="navbar-nav mb-2 font-weight-bold">
               <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Our Products
@@ -84,34 +84,30 @@
                     <a class="dropdown-item" href="packaging">Packaging</a>
                     <a class="dropdown-item" href="paving-machine">Paving Machine</a>
                     <a class="dropdown-item" href="urethane-capper-inserts">Bottle Capper Machine Inserts</a>
-                    <a class="dropdown-item" href="urethane-capper-inserts">Bottle Capper Machine Inserts</a>
                     <a class="dropdown-item" href="#">Automotive (Factory & Vehicles)</a>
                     <a class="dropdown-item" href="#">Factory Roller Maintenance and Upgrade</a>
                   </div>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item mt-2">
                     <a class="nav-link py-0 pr-3" href="general-industry">Industries Served</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link py-0 pr-3" href="engineering-assistance">Engineering Assistance</a>
-                </li>
-                <li class="nav-item">
+                <li class="nav-item mt-2">
                     <a class="nav-link py-0 pr-3" href="why-urethane">Why Urethane?</a>
                 </li>
-              <li class="nav-item">
+              <li class="nav-item mt-2">
                     <a class="nav-link py-0 pr-3" href="glossary">Glossary</a>
                 </li>
               <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Material Specifications</a>
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Other</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="engineering-assistance">Engineering Assistance</a>
+                  <a class="dropdown-item" href="performance-comparison">Performance Comparison</a>
+                  <h6 class="dropdown-header">Material Specifications</h6>
                     <a class="dropdown-item" href="soft-material-specs">Soft Material Specifications</a>
                     <a class="dropdown-item" href="medium-material-specs">Medium Material Specifications</a>
                     <a class="dropdown-item" href="hard-material-specs">Hard Material Specifications</a>
                     <a class="dropdown-item" href="fda-specs">FDA Food Handling Specifications</a>
                   </div>
-                </li>
-              <li class="nav-item">
-                    <a class="nav-link" href="performance-comparison">Performance Comparison</a>
                 </li>
             </ul>
         </div>
@@ -122,24 +118,3 @@
   <div class="container">
 
     <div class="row">
-     <div class="col-md-3 mt-4 mb-5 d-none d-md-block{% if page.print-friendly %} d-print-none{% endif %}">
-        {% if page.hide-menu != "" %}
-        <h1 class="h5 text-primary">{{site.title}}</h1>
-        <div class="list-group mb-4">
-          <h6 class="text-uppercase list-group-item active m-0">Specific Products</h6>
-          {% for link in site.products-menu %}
-          <a href="{{ link.href }}" class="list-group-item">{{link.name}}</a>
-          {% endfor %}
-        </div>
-        <div class="list-group mb-4">
-          <h6 class="text-uppercase list-group-item active m-0">Specific Industries</h6>
-          {% for link in site.industries-menu %}
-          <a href="{{ link.href }}" class="list-group-item">{{link.name}}</a>
-          {% endfor %}
-        </div>
-        <div class="list-group mb-4">
-          <h6 class="text-uppercase list-group-item active m-0">Purchase Products</h6>
-          <a href="store" class="list-group-item">The AUTI Store</a>
-        </div>
-        {% endif %}
-      </div>

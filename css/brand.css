@@ -22,3 +22,7 @@ body {
 .navbar-dark .navbar-nav .nav-link {
   color: white;
 }
+
+.navbar hr {
+  border-top-color: white;
+}

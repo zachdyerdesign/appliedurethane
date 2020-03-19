@@ -1,24 +1,3 @@
-      <div class="col-md-3 d-sm-block d-md-none{% if page.print-friendly %} d-print-none{% endif %}">
-        {% if page.hide-menu != "" %}
-        <h1 class="h4 text-primary">{{site.title}}</h1>
-        <div class="list-group mb-4">
-          <h6 class="text-uppercase list-group-item active m-0">Specific Products</h6>
-          {% for link in site.products-menu %}
-          <a href="{{ link.href }}" class="list-group-item">{{link.name}}</a>
-          {% endfor %}
-        </div>
-        <div class="list-group mb-4">
-          <h6 class="text-uppercase list-group-item active m-0">Specific Industries</h6>
-          {% for link in site.industries-menu %}
-          <a href="{{ link.href }}" class="list-group-item">{{link.name}}</a>
-          {% endfor %}
-        </div>
-        <div class="list-group mb-4">
-          <h6 class="text-uppercase list-group-item active m-0">Purchase Products</h6>
-          <a href="store" class="list-group-item">The AUTI Store</a>
-        </div>
-        {% endif %}
-      </div>
 
       <!-- /.col-lg-3 -->
     </div>
